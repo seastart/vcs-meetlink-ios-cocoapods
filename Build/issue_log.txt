@@ -1,0 +1,1035 @@
+  CDN: trunk Relative path: CocoaPods-version.yml exists! Returning local because checking is only performed in repo update
+
+Updating spec repo `trunk`
+  CDN: trunk Relative path: deprecated_podspecs.txt, has ETag? W/"65d594ce-b6f99"
+  CDN: trunk Relative path downloaded: deprecated_podspecs.txt, save ETag: W/"65f16d22-b7166"
+  CDN: trunk Going to update 242 files
+  CDN: trunk Relative path: all_pods_versions_5_f_c.txt, has ETag? W/"65d597a9-110d"
+  CDN: trunk Relative path: all_pods_versions_a_7_e.txt, has ETag? W/"65d597a9-2eb"
+  CDN: trunk Relative path: all_pods_versions_d_1_8.txt, has ETag? W/"65d597a9-58f"
+  CDN: trunk Relative path: all_pods_versions_4_1_9.txt, has ETag? W/"65d597a9-3b1"
+  CDN: trunk Relative path: all_pods_versions_3_2_e.txt, has ETag? W/"65d597a9-864"
+  CDN: trunk Relative path: all_pods_versions_4_b_b.txt, has ETag? W/"65d597a9-6d3"
+  CDN: trunk Relative path: all_pods_versions_c_0_0.txt, has ETag? W/"65d594ce-6d5"
+  CDN: trunk Relative path: all_pods_versions_d_b_4.txt, has ETag? W/"65d597a9-3b0"
+  CDN: trunk Relative path: all_pods_versions_a_1_b.txt, has ETag? W/"65f156f2-78c"
+  CDN: trunk Relative path: all_pods_versions_3_4_4.txt, has ETag? W/"65d597a9-6b7"
+  CDN: trunk Relative path: all_pods_versions_1_1_7.txt, has ETag? W/"65d594ce-bb3"
+  CDN: trunk Relative path: all_pods_versions_9_5_4.txt, has ETag? W/"65d597a9-189"
+  CDN: trunk Relative path: all_pods_versions_6_6_8.txt, has ETag? W/"65d594ce-932"
+  CDN: trunk Relative path: all_pods_versions_1_7_f.txt, has ETag? W/"65d594ce-646"
+  CDN: trunk Relative path: all_pods_versions_a_5_3.txt, has ETag? W/"65d597a9-5e0"
+  CDN: trunk Relative path: AlgoliaSearch.yml, has ETag? "65d594ce-5a"
+  CDN: trunk Relative path: all_pods_versions_2_6_b.txt, has ETag? W/"65d597a9-5d6"
+  CDN: trunk Relative path: all_pods_versions_a_7_5.txt, has ETag? W/"65d594ce-5ff"
+  CDN: trunk Relative path: all_pods_versions_8_3_3.txt, has ETag? W/"65d597a9-399"
+  CDN: trunk Relative path: all_pods_versions_2_2_f.txt, has ETag? W/"65d597a9-3f5"
+  CDN: trunk Relative path: all_pods_versions_1_d_9.txt, has ETag? W/"65d597a9-a80"
+  CDN: trunk Relative path: all_pods_versions_7_c_2.txt, has ETag? W/"65d597a9-408"
+  CDN: trunk Relative path: all_pods_versions_b_2_1.txt, has ETag? W/"65d597a9-61c"
+  CDN: trunk Relative path: all_pods_versions_7_c_d.txt, has ETag? W/"65d594ce-a86"
+  CDN: trunk Relative path: all_pods_versions_4_b_e.txt, has ETag? W/"65d597a9-712"
+  CDN: trunk Relative path: all_pods_versions_b_6_b.txt, has ETag? W/"65d597a9-42e"
+  CDN: trunk Relative path: all_pods_versions_7_e_c.txt, has ETag? W/"65d597a9-d67"
+  CDN: trunk Relative path: all_pods_versions_9_1_a.txt, has ETag? W/"65d597a9-5f6"
+  CDN: trunk Relative path: all_pods_versions_6_c_4.txt, has ETag? W/"65d597a9-4ea"
+  CDN: trunk Relative path: all_pods_versions_c_0_4.txt, has ETag? W/"65d597a9-570"
+  CDN: trunk Relative path: all_pods_versions_e_9_0.txt, has ETag? W/"65d597a9-5d1"
+  CDN: trunk Relative path: all_pods_versions_7_4_9.txt, has ETag? W/"65d597a9-704"
+  CDN: trunk Relative path: all_pods_versions_2_3_5.txt, has ETag? W/"65d597a9-4bc"
+  CDN: trunk Relative path: all_pods_versions_5_8_6.txt, has ETag? W/"65d597a9-4e2"
+  CDN: trunk Relative path: all_pods_versions_b_7_f.txt, has ETag? W/"65d594ce-443"
+  CDN: trunk Relative path: all_pods_versions_1_4_d.txt, has ETag? W/"65d594ce-63b"
+  CDN: trunk Relative path: all_pods_versions_9_2_2.txt, has ETag? W/"65d597a9-72e"
+  CDN: trunk Relative path: all_pods_versions_4_e_0.txt, has ETag? W/"65d597a9-e83"
+  CDN: trunk Relative path: all_pods_versions_3_5_7.txt, has ETag? W/"65d597a9-35d"
+  CDN: trunk Relative path: all_pods_versions_e_c_d.txt, has ETag? W/"65d597a9-d23"
+  CDN: trunk Relative path: all_pods_versions_d_c_a.txt, has ETag? W/"65d597a9-855"
+  CDN: trunk Relative path: all_pods_versions_2_3_6.txt, has ETag? W/"65d597a9-4a4"
+  CDN: trunk Relative path: all_pods_versions_0_0_1.txt, has ETag? W/"65d597a9-4fa"
+  CDN: trunk Relative path: all_pods_versions_c_3_d.txt, has ETag? W/"65d594ce-604"
+  CDN: trunk Relative path: all_pods_versions_c_5_c.txt, has ETag? W/"65d597a9-4a4"
+  CDN: trunk Relative path: all_pods_versions_c_5_5.txt, has ETag? W/"65d594ce-85e"
+  CDN: trunk Relative path: all_pods_versions_6_5_9.txt, has ETag? W/"65d597a9-5cc"
+  CDN: trunk Relative path: all_pods_versions_8_a_9.txt, has ETag? W/"65d597a9-d72"
+  CDN: trunk Relative path: all_pods_versions_f_9_1.txt, has ETag? W/"65d597a9-579"
+  CDN: trunk Relative path: all_pods_versions_d_a_2.txt, has ETag? W/"65d597a9-750"
+  CDN: trunk Relative path: all_pods_versions_0_6_e.txt, has ETag? W/"65d594ce-11fa"
+  CDN: trunk Relative path: all_pods_versions_a_8_8.txt, has ETag? W/"65d597a9-5c7"
+  CDN: trunk Relative path: all_pods_versions_d_8_c.txt, has ETag? W/"65d597a9-658"
+  CDN: trunk Relative path: all_pods_versions_0_2_a.txt, has ETag? W/"65d594ce-693"
+  CDN: trunk Relative path: all_pods_versions_9_c_9.txt, has ETag? W/"65d597a9-42f"
+  CDN: trunk Relative path: all_pods_versions_a_0_e.txt, has ETag? W/"65d597a9-33f"
+  CDN: trunk Relative path: all_pods_versions_2_1_2.txt, has ETag? W/"65d597a9-3cd"
+  CDN: trunk Relative path: all_pods_versions_2_7_4.txt, has ETag? W/"65d597a9-4d0"
+  CDN: trunk Relative path: all_pods_versions_d_e_5.txt, has ETag? W/"65d597a9-5cc"
+  CDN: trunk Relative path: all_pods_versions_1_4_7.txt, has ETag? W/"65d597a9-8b9"
+  CDN: trunk Relative path: all_pods_versions_7_d_5.txt, has ETag? W/"65d597a9-525"
+  CDN: trunk Relative path: CocoaPods-version.yml, has ETag? "65d594ce-38"
+  CDN: trunk Relative path: all_pods_versions_f_f_3.txt, has ETag? W/"65d597a9-4a1"
+  CDN: trunk Relative path: all_pods_versions_0_4_2.txt, has ETag? W/"65d597a9-984"
+  CDN: trunk Relative path: all_pods_versions_f_3_8.txt, has ETag? W/"65d597a9-eed"
+  CDN: trunk Relative path: all_pods_versions_d_8_6.txt, has ETag? W/"65d597a9-547"
+  CDN: trunk Relative path: all_pods_versions_5_c_6.txt, has ETag? W/"65d597a9-646"
+  CDN: trunk Relative path: all_pods_versions_a_c_3.txt, has ETag? W/"65d597a9-3fb"
+  CDN: trunk Relative path: all_pods_versions_3_9_3.txt, has ETag? W/"65d597a9-92b"
+  CDN: trunk Relative path: all_pods_versions_1_c_d.txt, has ETag? W/"65d597a9-8fa"
+  CDN: trunk Relative path: all_pods_versions_8_8_5.txt, has ETag? W/"65d597a9-34e"
+  CDN: trunk Relative path: all_pods_versions_b_d_5.txt, has ETag? W/"65d597a9-390"
+  CDN: trunk Relative path: all_pods_versions_c_f_d.txt, has ETag? W/"65d597a9-626"
+  CDN: trunk Relative path: all_pods_versions_c_f_0.txt, has ETag? W/"65d597a9-64c"
+  CDN: trunk Relative path: all_pods_versions_a_a_3.txt, has ETag? W/"65d597a9-cbd"
+  CDN: trunk Relative path: all_pods_versions_7_3_2.txt, has ETag? W/"65d597a9-47b"
+  CDN: trunk Relative path: all_pods_versions_5_0_c.txt, has ETag? W/"65d597a9-573"
+  CDN: trunk Relative path: all_pods_versions_d_6_6.txt, has ETag? W/"65d594ce-4b6"
+  CDN: trunk Relative path: all_pods_versions_8_a_0.txt, has ETag? W/"65d597a9-96e"
+  CDN: trunk Relative path: all_pods_versions_d_4_f.txt, has ETag? W/"65d597a9-33e"
+  CDN: trunk Relative path: all_pods_versions_8_a_b.txt, has ETag? W/"65d597a9-657"
+  CDN: trunk Relative path: all_pods_versions_4_c_8.txt, has ETag? W/"65d597a9-8ae"
+  CDN: trunk Relative path: all_pods_versions_4_6_3.txt, has ETag? W/"65d597a9-537"
+  CDN: trunk Relative path: all_pods_versions_4_0_c.txt, has ETag? W/"65d597a9-306"
+  CDN: trunk Relative path: all_pods_versions_a_a_6.txt, has ETag? W/"65d597a9-f14"
+  CDN: trunk Relative path: all_pods_versions_6_f_8.txt, has ETag? W/"65d597a9-55e"
+  CDN: trunk Relative path: all_pods_versions_0_8_5.txt, has ETag? W/"65d597a9-49e"
+  CDN: trunk Relative path: all_pods_versions_2_f_0.txt, has ETag? W/"65d597a9-492"
+  CDN: trunk Relative path: all_pods_versions_d_6_3.txt, has ETag? W/"65d597a9-733"
+  CDN: trunk Relative path: all_pods_versions_9_a_0.txt, has ETag? W/"65d597a9-336"
+  CDN: trunk Relative path: all_pods_versions_d_4_1.txt, has ETag? W/"65d597a9-437"
+  CDN: trunk Relative path: all_pods_versions_8_a_5.txt, has ETag? W/"65d597a9-255"
+  CDN: trunk Relative path: all_pods_versions_8_a_a.txt, has ETag? W/"65d597a9-d3a"
+  CDN: trunk Relative path: all_pods_versions_b_3_8.txt, has ETag? W/"65d597a9-5fa"
+  CDN: trunk Relative path: all_pods_versions_2_f_d.txt, has ETag? W/"65d597a9-510"
+  CDN: trunk Relative path: all_pods_versions_e_2_f.txt, has ETag? W/"65d597a9-4d6"
+  CDN: trunk Relative path: all_pods_versions_7_3_b.txt, has ETag? W/"65d597a9-bfc"
+  CDN: trunk Relative path: all_pods_versions_9_e_6.txt, has ETag? W/"65d597a9-558"
+  CDN: trunk Relative path: all_pods_versions_6_1_3.txt, has ETag? W/"65d597a9-5c5"
+  CDN: trunk Relative path: all_pods_versions_c_7_9.txt, has ETag? W/"65d597a9-63a"
+  CDN: trunk Relative path: all_pods_versions_4_2_4.txt, has ETag? W/"65d597a9-77a"
+  CDN: trunk Relative path: all_pods_versions_f_1_e.txt, has ETag? W/"65d597a9-664"
+  CDN: trunk Relative path: all_pods_versions_0_a_f.txt, has ETag? W/"65d597a9-5b3"
+  CDN: trunk Relative path: all_pods_versions_6_1_d.txt, has ETag? W/"65d597a9-61d"
+  CDN: trunk Relative path: all_pods_versions_a_a_4.txt, has ETag? W/"65d597a9-68a"
+  CDN: trunk Relative path: all_pods_versions_7_2_d.txt, has ETag? W/"65d597a9-901"
+  CDN: trunk Relative path: all_pods_versions_7_0_f.txt, has ETag? W/"65d597a9-446"
+  CDN: trunk Relative path: all_pods_versions_2_e_6.txt, has ETag? W/"65d597a9-1f6"
+  CDN: trunk Relative path: all_pods_versions_3_0_9.txt, has ETag? W/"65d597a9-74e"
+  CDN: trunk Relative path: all_pods_versions_a_b_d.txt, has ETag? W/"65d594ce-123e"
+  CDN: trunk Relative path: all_pods_versions_f_0_7.txt, has ETag? W/"65d597a9-5f9"
+  CDN: trunk Relative path: all_pods_versions_a_b_2.txt, has ETag? W/"65d597a9-42f"
+  CDN: trunk Relative path: all_pods_versions_6_2_4.txt, has ETag? W/"65d597a9-733"
+  CDN: trunk Relative path: all_pods_versions_f_4_e.txt, has ETag? W/"65d594ce-71f"
+  CDN: trunk Relative path: all_pods_versions_4_5_a.txt, has ETag? W/"65d597a9-47d"
+  CDN: trunk Relative path: all_pods_versions_1_d_4.txt, has ETag? W/"65d597a9-55b"
+  CDN: trunk Relative path: all_pods_versions_1_f_6.txt, has ETag? W/"65d594ce-4df"
+  CDN: trunk Relative path: all_pods_versions_9_f_0.txt, has ETag? W/"65d597a9-610"
+  CDN: trunk Relative path: all_pods_versions_4_3_f.txt, has ETag? W/"65d597a9-490"
+  CDN: trunk Relative path: all_pods_versions_2_c_6.txt, has ETag? W/"65d594ce-414"
+  CDN: trunk Relative path: all_pods_versions_f_e_9.txt, has ETag? W/"65d597a9-602"
+  CDN: trunk Relative path: all_pods_versions_a_9_3.txt, has ETag? W/"65d594ce-6ef"
+  CDN: trunk Relative path: all_pods_versions_6_6_c.txt, has ETag? W/"65d594ce-488"
+  CDN: trunk Relative path: all_pods_versions_e_7_b.txt, has ETag? W/"65d597a9-4c7"
+  CDN: trunk Relative path: all_pods_versions_3_8_6.txt, has ETag? W/"65d597a9-45f"
+  CDN: trunk Relative path: all_pods_versions_c_8_7.txt, has ETag? W/"65d594ce-89c"
+  CDN: trunk Relative path: all_pods_versions_5_1_0.txt, has ETag? W/"65d597a9-481"
+  CDN: trunk Relative path: all_pods_versions_5_3_d.txt, has ETag? W/"65d597a9-6cd"
+  CDN: trunk Relative path: all_pods_versions_0_f_b.txt, has ETag? W/"65d597a9-4d1"
+  CDN: trunk Relative path: all_pods_versions_8_9_d.txt, has ETag? W/"65d597a9-439"
+  CDN: trunk Relative path: all_pods_versions_7_c_9.txt, has ETag? W/"65d594ce-4d9"
+  CDN: trunk Relative path: all_pods_versions_a_f_1.txt, has ETag? W/"65d594ce-f97"
+  CDN: trunk Relative path: all_pods_versions_d_7_3.txt, has ETag? W/"65d597a9-582"
+  CDN: trunk Relative path: all_pods_versions_d_7_e.txt, has ETag? W/"65d597a9-484"
+  CDN: trunk Relative path: all_pods_versions_0_d_7.txt, has ETag? W/"65d597a9-344"
+  CDN: trunk Relative path: all_pods_versions_a_9_1.txt, has ETag? W/"65d597a9-451"
+  CDN: trunk Relative path: all_pods_versions_c_8_4.txt, has ETag? W/"65d597a9-5a8"
+  CDN: trunk Relative path: Specs/2/c/6/GoogleWebRTC/1.1.32000/GoogleWebRTC.podspec.json, has ETag? W/"38b-TSYRh7MFEu/bcR0h+pYaat8Thxc"
+  CDN: trunk Relative path: Specs/7/d/5/JSQMessagesViewController/7.3.5/JSQMessagesViewController.podspec.json, has ETag? W/"558-ZYf1au28sVCouh2Wjh71ixvHWLc"
+  CDN: trunk Relative path: Specs/8/3/3/WCDB/1.0.0/WCDB.podspec.json, has ETag? W/"1ae2-KcB32hqim/nidzzvQoOK6uaiIQY"
+  CDN: trunk Relative path: Specs/8/3/3/WCDB/1.0.1/WCDB.podspec.json, has ETag? W/"1b24-frXlD7S1uhTaNFT7HRmZye7S6a4"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/0.5.0/BlocksKit.podspec.json, has ETag? W/"26a-if+1kppZ5XbMsHhNQXN49yLzctM"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/0.9.0/BlocksKit.podspec.json, has ETag? W/"26a-eyx74Nbg65CWRC/l5p5TJsqxYlc"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/0.9.5/BlocksKit.podspec.json, has ETag? W/"26a-/N0khTiOT8EJThNF7SO08PqcLdY"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.0.0/BlocksKit.podspec.json, has ETag? W/"2a2-htRkR2kjYtWlFvF3CYI6wU6ibM8"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.0.1/BlocksKit.podspec.json, has ETag? W/"2a2-JfNva63KGVBCPjT5Jnck6NQERvQ"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.0.2/BlocksKit.podspec.json, has ETag? W/"2a2-SBQKk1TETOICTIcnFpRiCPOb6ro"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.0.3/BlocksKit.podspec.json, has ETag? W/"2a2-MKGcy29cVP4WqFHjrX1mfucMwBk"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.0.4/BlocksKit.podspec.json, has ETag? W/"2a2-RPh/YUiyPXuK1En7bC7cpjZBIdk"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.0.5/BlocksKit.podspec.json, has ETag? W/"2a2-ZzbVbwQ5Ig76mJbW/LShL85dvHc"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.0.6/BlocksKit.podspec.json, has ETag? W/"34a-JSvLDuX07d1BzWFvyYL2eDZ3hqg"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.5.0/BlocksKit.podspec.json, has ETag? W/"338-WH5MLlYCTyz5SKnPTgDBKLZoOcM"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.5.1/BlocksKit.podspec.json, has ETag? W/"338-xXC3OgjNFaNYMa9IpnxkIr8Jqac"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.5.2/BlocksKit.podspec.json, has ETag? W/"338-08hH7XI1AqJhFTlxbNIUOdyq2dM"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.8.0/BlocksKit.podspec.json, has ETag? W/"328-9BdCHeJxC+qaIF9O34lFG7leyGM"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.8.1/BlocksKit.podspec.json, has ETag? W/"328-AoKw9u9pyvKJWHPoWCqGO1YIaaw"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.8.2/BlocksKit.podspec.json, has ETag? W/"328-IGRpU8kkeSwu6AGPUVVK1jqvNDg"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/1.8.3/BlocksKit.podspec.json, has ETag? W/"328-+jjYkqmvcjBUXo87EGUbvDK+y2A"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/2.0.0/BlocksKit.podspec.json, has ETag? W/"7bd-4ZVed0F6XLVS20TT/FaygEkJnRo"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/2.2.0/BlocksKit.podspec.json, has ETag? W/"934-mmtu3Tul460nHrG6miz6qfsqsbo"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/2.2.2/BlocksKit.podspec.json, has ETag? W/"757-Cym8qV2Am17GJmB4wqrTOaE1ID4"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/2.2.3/BlocksKit.podspec.json, has ETag? W/"757-3QTltF8L0SeO5qjnKuW66BxkUtI"
+  CDN: trunk Relative path: Specs/8/a/5/BlocksKit/2.2.5/BlocksKit.podspec.json, has ETag? W/"74d-hjmyhI3VHDXJV69Nn73Hp2mh/BI"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/0.10.0/AFNetworking.podspec.json, has ETag? W/"2cc-u8zS/YXug+4Fg4zfNXo1Q4aZmAc"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/0.10.1/AFNetworking.podspec.json, has ETag? W/"2cc-cjIHYyUniygsq3HjnMqGQvzbRqU"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/0.5.1/AFNetworking.podspec.json, has ETag? W/"3ab-HogEfKEYFAbT4vdt2fw3yVRdVNY"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/0.7.0/AFNetworking.podspec.json, has ETag? W/"2b1-98k1f34KWWdpeP7h+EXgdGibx6w"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/0.9.0/AFNetworking.podspec.json, has ETag? W/"272-RHHOPjIxc6HHgtKqxMu+M2nCUAU"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/0.9.1/AFNetworking.podspec.json, has ETag? W/"272-z6BO0cfNcRXBumCkMH+m02A7BmU"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/0.9.2/AFNetworking.podspec.json, has ETag? W/"272-g1EJ5/BusUv99CUBRap7qrF6xSo"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.0.1/AFNetworking.podspec.json, has ETag? W/"447-SOob6Shr67ox6Lf9R//MT5M6ldU"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.0/AFNetworking.podspec.json, has ETag? W/"443-vaZ04EJCpJBF/qDKOrRebfgF+Js"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.0RC1/AFNetworking.podspec.json, has ETag? W/"274-o80yikmHDKyQCT7AuNTTz+UWx5w"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.0RC2/AFNetworking.podspec.json, has ETag? W/"273-8cLWhGGEn57JP9GEFXHodStwIGI"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.0RC3/AFNetworking.podspec.json, has ETag? W/"2c6-oBUU8p1VtlxODv1zdJei+uiuzf4"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.1.0/AFNetworking.podspec.json, has ETag? W/"446-YNHx1sb5Pal1fYtMtrjDj8f19E8"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.1.1/AFNetworking.podspec.json, has ETag? W/"8a-8gkCqH4c1cmHumwD2qd9W+Oj6gI"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.2.0/AFNetworking.podspec.json, has ETag? W/"446-R8ZJyptRxqeowX96Ff18fwCMBXc"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.2.1/AFNetworking.podspec.json, has ETag? W/"4b6-boNqnbIrYkr1XWfOq6wT9w4pROQ"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.3.0/AFNetworking.podspec.json, has ETag? W/"4b6-Apt5RuIsnMNc7OrOYKeRa932O7g"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.3.1/AFNetworking.podspec.json, has ETag? W/"4cc-YIPCWzXlpGvRW9M4DV6OUAOzj6w"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.3.2/AFNetworking.podspec.json, has ETag? W/"4cc-Iltv668pjyOsAuFduv545HMTjt4"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.3.3/AFNetworking.podspec.json, has ETag? W/"49d-1HwtQDgORXTaXctIp9MfoqK0ENU"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/1.3.4/AFNetworking.podspec.json, has ETag? W/"49d-YdjB1YoqY4WrsGUNAWQvOiMKnNs"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.0.0-RC1/AFNetworking.podspec.json, has ETag? W/"3bc-jALh3bSd9N4eB0PEb+TvJZde9yw"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.0.0-RC2/AFNetworking.podspec.json, has ETag? W/"3bc-5hysq9gGQljrhpDIZ++jeHtY2+0"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.0.0-RC3/AFNetworking.podspec.json, has ETag? W/"830-JnrpjWQIbcvz7VArX6DcsaVlwnI"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.0.0/AFNetworking.podspec.json, has ETag? W/"939-Mrtn6egTengc6P03/FWIalZQS9A"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.0.1/AFNetworking.podspec.json, has ETag? W/"8f3-KMfJOjgdFXT0OPgfMEElitNi2To"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.0.2/AFNetworking.podspec.json, has ETag? W/"8c0-TpeaXgWrmwPEtLI/v1CxIK/2vnM"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.0.3/AFNetworking.podspec.json, has ETag? W/"8c0-A9aS4Si7bsBUXZ14BiwqBrDD9jI"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.1.0/AFNetworking.podspec.json, has ETag? W/"8c0-lw5uXzjAJEhgZ8n7g2AH3p3H/+o"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.2.0/AFNetworking.podspec.json, has ETag? W/"92d-VvFMYdipUPr9QtttgTwQHbKwrKA"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.2.1/AFNetworking.podspec.json, has ETag? W/"92d-uoOeX7ig9XJm0jBIry0IGaJwlGA"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.2.2/AFNetworking.podspec.json, has ETag? W/"92d-BgRPOeEX4z/TXYtRV2uPZ3iA6p4"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.2.3/AFNetworking.podspec.json, has ETag? W/"92d-8iqiOYoG6w/v6CLIawD5B5p3rwk"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.2.4/AFNetworking.podspec.json, has ETag? W/"92d-lom4wFjnyRSM3hmjqaFfie0/ZQs"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.3.0/AFNetworking.podspec.json, has ETag? W/"98d-0o/+GhPHQZ3SmCLlY3zYbYpBI/A"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.3.1/AFNetworking.podspec.json, has ETag? W/"98d-7sUUTlsmtbMuSQoDJr+J8kvlsDI"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.4.0/AFNetworking.podspec.json, has ETag? W/"98d-v4o8u/yvOlDiEHKg843Cby6hobw"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.4.1/AFNetworking.podspec.json, has ETag? W/"98d-z8QBbp0aevqZIhhuKFQAG0RPlIo"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.5.0/AFNetworking.podspec.json, has ETag? W/"98d-eCfegr7wFFT/zUASiQxf3XqYGvY"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.5.1/AFNetworking.podspec.json, has ETag? W/"98d-qKDFrh2mqkVbw+ACHMnPsFy4NqQ"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.5.2/AFNetworking.podspec.json, has ETag? W/"98d-2Y2VasdnWcu64A/CPQRUTJnWP94"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.5.3/AFNetworking.podspec.json, has ETag? W/"98d-Mt/EFroEFAJadWUDklpA1jXH1ME"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.5.4/AFNetworking.podspec.json, has ETag? W/"98d-QHsKNZZndmE5JKhp7zWLWfkn14g"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.6.0/AFNetworking.podspec.json, has ETag? W/"dbc-hdEK8JhldkIifFtlCiueSdbfniU"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.6.1/AFNetworking.podspec.json, has ETag? W/"dd6-zRFmg/1d0aNHFaPJQQtte4dF2Lk"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.6.2/AFNetworking.podspec.json, has ETag? W/"dd6-DkLW4A4Iq9Y+LZLfw8YN6SbRids"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.6.3/AFNetworking.podspec.json, has ETag? W/"dd6-qSb5NX47w50sScVH6OjckLNiWbY"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/2.7.0/AFNetworking.podspec.json, has ETag? W/"dd6-nVfedQaVmVXYL7UnTuS+yGuTDlI"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.0.0-beta.1/AFNetworking.podspec.json, has ETag? W/"b80-KG2A/RUiTH1ehR9Zne/GR4pJ/2Y"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.0.0-beta.2/AFNetworking.podspec.json, has ETag? W/"b80-Z31HhBltj30dy3cfPQwKbRYeBL0"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.0.0-beta.3/AFNetworking.podspec.json, has ETag? W/"b80-5J/o7cLAUP7RtZaNBtIiM9+2HOY"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.0.0/AFNetworking.podspec.json, has ETag? W/"b72-rsKZDh2Kcg1cWEnMYrVodY4qUqM"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.0.1/AFNetworking.podspec.json, has ETag? W/"b72-F37ZnzOqOzNcSfC1eef1Teq56qY"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.0.2/AFNetworking.podspec.json, has ETag? W/"b72-TolAfnll1A3V47fr0Hiu92wgcsA"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.0.3/AFNetworking.podspec.json, has ETag? W/"b72-daPXR7+/jGGGXctUHuScKdhDHS4"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.0.4/AFNetworking.podspec.json, has ETag? W/"b72-ys0E4h549OEda3+xS8i2x7iyRlg"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.1.0/AFNetworking.podspec.json, has ETag? W/"b72-GYJ7zoyNJbFr6hhYN8tml2wj+P4"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.2.0/AFNetworking.podspec.json, has ETag? W/"b72-IofSoGGpaVvf5uqC9ITlbXbuJjE"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/3.2.1/AFNetworking.podspec.json, has ETag? W/"bf6-y2BLHCve0IcfX2H11TZTc56EHWs"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/4.0.0/AFNetworking.podspec.json, has ETag? W/"bff-QokggGBpNfep7D/aSSf9036c02k"
+  CDN: trunk Relative path: Specs/a/7/5/AFNetworking/4.0.1/AFNetworking.podspec.json, has ETag? W/"97a-O9I9gU6XbNFI19RMOreAF7dEzVg"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.0/CocoaMQTT.podspec.json, has ETag? W/"241-IKI7qjGpLeo5lwk5aXzzyB6yI4E"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.1/CocoaMQTT.podspec.json, has ETag? W/"2b4-E8xxeRd0+RM+Lg7IZP05WVYddo0"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.10/CocoaMQTT.podspec.json, has ETag? W/"2b6-3J9c5uT66fZBgEcpTIXOP8gjJKs"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.11/CocoaMQTT.podspec.json, has ETag? W/"2b6-FX21TNLH9j/24uFRkLvZvnqa/8w"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.12/CocoaMQTT.podspec.json, has ETag? W/"2dc-Ov3jB6a/xZJuqIh+KUliLppXD3o"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.13/CocoaMQTT.podspec.json, has ETag? W/"302-ho3fVHmVDi1PtK4RPsgrwy9brWI"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.14/CocoaMQTT.podspec.json, has ETag? W/"302-/fi+6KNakVCqOQfTY+5r0NyugqE"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.15/CocoaMQTT.podspec.json, has ETag? W/"315-L+pZosIDBvLaaWxNC0GeVImcbaw"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.16/CocoaMQTT.podspec.json, has ETag? W/"315-UoAa/dkrBZteJWARh12Qq/1qhIA"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.17/CocoaMQTT.podspec.json, has ETag? W/"315-PEfB2YTmS2tI7KiXJy71iuw7nIY"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.18/CocoaMQTT.podspec.json, has ETag? W/"315-f422hW7CrLCZw6u/ZwcxNH8zWvc"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.19/CocoaMQTT.podspec.json, has ETag? W/"315-/d8rEhxbo+lmJo+Bjk5YKgfkhkg"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.3/CocoaMQTT.podspec.json, has ETag? W/"241-kQRrOPwnrRrn+IgnZE37lZPcgUo"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.5/CocoaMQTT.podspec.json, has ETag? W/"2b4-jFnvXdCCwB1lHttgzCHW0y0mhrQ"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.7/CocoaMQTT.podspec.json, has ETag? W/"2b4-Z1333AThR2IlYE8yy4ESPTUiArU"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.8/CocoaMQTT.podspec.json, has ETag? W/"2b4-U7PWF8JATpP178Ajf+LOVVwsKn4"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.0.9/CocoaMQTT.podspec.json, has ETag? W/"2b4-5xwfexKUw4xXlKAhru25cXeem5A"
+  CDN: trunk Relative path: Specs/f/e/9/CocoaMQTT/1.1.0/CocoaMQTT.podspec.json, has ETag? W/"313-HTBl43RlKMNWXZFDAHcCGEG52qg"
+  CDN: trunk Relative path downloaded: all_pods_versions_5_f_c.txt, save ETag: W/"65f16d22-112f"
+  CDN: trunk Relative path downloaded: all_pods_versions_3_2_e.txt, save ETag: W/"65f16d22-864"
+  CDN: trunk Relative path downloaded: all_pods_versions_4_b_b.txt, save ETag: W/"65f16d22-6df"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_0_0.txt, save ETag: W/"65f16d22-6e1"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_b_4.txt, save ETag: W/"65f16d22-3b0"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_1_b.txt, save ETag: W/"65f16d22-78c"
+  CDN: trunk Relative path downloaded: all_pods_versions_3_4_4.txt, save ETag: W/"65f16d22-6b7"
+  CDN: trunk Relative path downloaded: all_pods_versions_1_1_7.txt, save ETag: W/"65f16d22-bc2"
+  CDN: trunk Relative path downloaded: all_pods_versions_9_5_4.txt, save ETag: W/"65f16d22-1a0"
+  CDN: trunk Relative path downloaded: all_pods_versions_6_6_8.txt, save ETag: W/"65f16d22-9ec"
+  CDN: trunk Relative path downloaded: all_pods_versions_1_7_f.txt, save ETag: W/"65f16d22-646"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_5_3.txt, save ETag: W/"65f16d22-5ec"
+  CDN: trunk Relative path downloaded: AlgoliaSearch.yml, save ETag: "65f16d22-5a"
+  CDN: trunk Relative path downloaded: all_pods_versions_2_6_b.txt, save ETag: W/"65f16d22-5f5"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_7_5.txt, save ETag: W/"65f16d22-605"
+  CDN: trunk Relative path downloaded: all_pods_versions_8_3_3.txt, save ETag: W/"65f16d22-3a5"
+  CDN: trunk Relative path downloaded: all_pods_versions_2_2_f.txt, save ETag: W/"65f16d22-3fb"
+  CDN: trunk Relative path downloaded: all_pods_versions_1_d_9.txt, save ETag: W/"65f16d22-a96"
+  CDN: trunk Relative path downloaded: all_pods_versions_7_c_2.txt, save ETag: W/"65f16d22-408"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_1_8.txt, save ETag: W/"65f16d22-59b"
+  CDN: trunk Relative path downloaded: all_pods_versions_b_2_1.txt, save ETag: W/"65f16d22-61c"
+  CDN: trunk Relative path downloaded: all_pods_versions_7_c_d.txt, save ETag: W/"65f16d22-aa0"
+  CDN: trunk Relative path downloaded: all_pods_versions_4_b_e.txt, save ETag: W/"65f16d22-712"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_7_e.txt, save ETag: W/"65f16d22-2eb"
+  CDN: trunk Relative path downloaded: all_pods_versions_4_1_9.txt, save ETag: W/"65f16d22-3b1"
+  CDN: trunk Relative path downloaded: all_pods_versions_b_6_b.txt, save ETag: W/"65f16d22-42e"
+  CDN: trunk Relative path downloaded: all_pods_versions_7_e_c.txt, save ETag: W/"65f16d22-d72"
+  CDN: trunk Relative path downloaded: all_pods_versions_9_1_a.txt, save ETag: W/"65f16d22-60d"
+  CDN: trunk Relative path downloaded: all_pods_versions_6_c_4.txt, save ETag: W/"65f16d22-4ea"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_0_4.txt, save ETag: W/"65f16d22-570"
+  CDN: trunk Relative path downloaded: all_pods_versions_e_9_0.txt, save ETag: W/"65f16d22-5d1"
+  CDN: trunk Relative path downloaded: all_pods_versions_7_4_9.txt, save ETag: W/"65f16d22-704"
+  CDN: trunk Relative path downloaded: all_pods_versions_2_3_5.txt, save ETag: W/"65f16d22-4c9"
+  CDN: trunk Relative path downloaded: all_pods_versions_5_8_6.txt, save ETag: W/"65f16d22-4ee"
+  CDN: trunk Relative path downloaded: all_pods_versions_b_7_f.txt, save ETag: W/"65f16d22-443"
+  CDN: trunk Relative path downloaded: all_pods_versions_1_4_d.txt, save ETag: W/"65f16d22-644"
+  CDN: trunk Relative path downloaded: all_pods_versions_9_2_2.txt, save ETag: W/"65f16d22-73a"
+  CDN: trunk Relative path downloaded: all_pods_versions_4_e_0.txt, save ETag: W/"65f16d22-ea8"
+  CDN: trunk Relative path downloaded: all_pods_versions_3_5_7.txt, save ETag: W/"65f16d22-35d"
+  CDN: trunk Relative path downloaded: all_pods_versions_e_c_d.txt, save ETag: W/"65f16d22-d2e"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_c_a.txt, save ETag: W/"65f16d22-85b"
+  CDN: trunk Relative path downloaded: all_pods_versions_0_0_1.txt, save ETag: W/"65f16d22-50e"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_3_d.txt, save ETag: W/"65f16d22-604"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_5_5.txt, save ETag: W/"65f16d22-873"
+  CDN: trunk Relative path downloaded: all_pods_versions_8_a_9.txt, save ETag: W/"65f16d22-d93"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_a_2.txt, save ETag: W/"65f16d22-756"
+  CDN: trunk Relative path downloaded: all_pods_versions_0_6_e.txt, save ETag: W/"65f16d22-1201"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_8_8.txt, save ETag: W/"65f16d22-5c7"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_8_c.txt, save ETag: W/"65f16d22-661"
+  CDN: trunk Relative path downloaded: all_pods_versions_0_2_a.txt, save ETag: W/"65f16d22-693"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_0_e.txt, save ETag: W/"65f16d22-33f"
+  CDN: trunk Relative path downloaded: all_pods_versions_2_1_2.txt, save ETag: W/"65f16d22-3cd"
+  CDN: trunk Relative path downloaded: all_pods_versions_2_7_4.txt, save ETag: W/"65f16d22-4d0"
+  CDN: trunk Relative path downloaded: CocoaPods-version.yml, save ETag: "65f16d22-38"
+  CDN: trunk Relative path downloaded: all_pods_versions_f_f_3.txt, save ETag: W/"65f16d22-4b1"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.5.1/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.1/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.4.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.8.0/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.0/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/0.5.0/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.5.0/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.2.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.3.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.1/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_f_4_e.txt, save ETag: W/"65f16d22-725"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.0.5/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.5/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/3/3/WCDB/1.0.1/WCDB.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.1/WCDB.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/0.5.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.5.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/0.7.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.7.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.1.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.3.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.2.2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.2/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_a_b_2.txt, save ETag: W/"65f16d22-42f"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_7_e.txt, save ETag: W/"65f16d22-484"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_8_4.txt, save ETag: W/"65f16d22-5a8"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/0.9.0/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.0/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/2.0.0/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.0.0/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/2/c/6/GoogleWebRTC/1.1.32000/GoogleWebRTC.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/2/c/6/GoogleWebRTC/1.1.32000/GoogleWebRTC.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/0.9.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.0.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.2.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.1/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_6_2_4.txt, save ETag: W/"65f16d22-733"
+  CDN: trunk Relative path downloaded: all_pods_versions_8_9_d.txt, save ETag: W/"65f16d22-439"
+  CDN: trunk Relative path downloaded: all_pods_versions_6_1_d.txt, save ETag: W/"65f16d22-639"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/0.10.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/0.9.2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.2/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/0.9.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.0RC1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.0.2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.2/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.3.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/2.2.5/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.5/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.0.0-RC2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC2/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_7_2_d.txt, save ETag: W/"65f16d22-901"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_b_d.txt, save ETag: W/"65f16d22-127a"
+  CDN: trunk Relative path downloaded: all_pods_versions_0_d_7.txt, save ETag: W/"65f16d22-34a"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.0.6/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.6/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.5.2/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.2/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.3.4/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.4/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_2_c_6.txt, save ETag: W/"65f16d22-414"
+  CDN: trunk Relative path downloaded: all_pods_versions_5_1_0.txt, save ETag: W/"65f16d22-481"
+  CDN: trunk Relative path downloaded: all_pods_versions_0_4_2.txt, save ETag: W/"65f16d22-98f"
+  CDN: trunk Relative path downloaded: all_pods_versions_3_9_3.txt, save ETag: W/"65f16d22-932"
+  CDN: trunk Relative path downloaded: all_pods_versions_8_8_5.txt, save ETag: W/"65f16d22-34e"
+  CDN: trunk Relative path downloaded: all_pods_versions_b_d_5.txt, save ETag: W/"65f16d22-390"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_a_3.txt, save ETag: W/"65f16d22-cc4"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_6_6.txt, save ETag: W/"65f16d22-4d6"
+  CDN: trunk Relative path downloaded: all_pods_versions_8_a_0.txt, save ETag: W/"65f16d22-983"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_a_6.txt, save ETag: W/"65f16d22-f1a"
+  CDN: trunk Relative path downloaded: all_pods_versions_0_8_5.txt, save ETag: W/"65f16d22-4a6"
+  CDN: trunk Relative path downloaded: all_pods_versions_4_2_4.txt, save ETag: W/"65f16d22-77a"
+  CDN: trunk Relative path downloaded: all_pods_versions_f_0_7.txt, save ETag: W/"65f16d22-5ff"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.0.0/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.0/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.0.4/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.4/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/2.2.3/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.3/BlocksKit.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_d_7_3.txt, save ETag: W/"65f16d22-582"
+  CDN: trunk Relative path downloaded: all_pods_versions_f_e_9.txt, save ETag: W/"65f16d22-602"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.0.0-RC3/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC3/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.0.3/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.3/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_4_3_f.txt, save ETag: W/"65f16d22-490"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.0.2/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.2/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.8.3/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.3/BlocksKit.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_6_6_c.txt, save ETag: W/"65f16d22-48e"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/3/3/WCDB/1.0.0/WCDB.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.0/WCDB.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/2.2.0/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.0/BlocksKit.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_3_0_9.txt, save ETag: W/"65f16d22-75a"
+  CDN: trunk Relative path downloaded: all_pods_versions_7_0_f.txt, save ETag: W/"65f16d22-446"
+  CDN: trunk Relative path downloaded: all_pods_versions_2_e_6.txt, save ETag: W/"65f16d22-1f6"
+  CDN: trunk Relative path downloaded: all_pods_versions_7_c_9.txt, save ETag: W/"65f16d22-4d9"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_a_4.txt, save ETag: W/"65f16d22-691"
+  CDN: trunk Relative path downloaded: all_pods_versions_2_3_6.txt, save ETag: W/"65f16d22-4a4"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_5_c.txt, save ETag: W/"65f16d22-4aa"
+  CDN: trunk Relative path downloaded: all_pods_versions_6_5_9.txt, save ETag: W/"65f16d22-5cc"
+  CDN: trunk Relative path downloaded: all_pods_versions_f_9_1.txt, save ETag: W/"65f16d22-579"
+  CDN: trunk Relative path downloaded: all_pods_versions_9_c_9.txt, save ETag: W/"65f16d22-435"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_e_5.txt, save ETag: W/"65f16d22-5cc"
+  CDN: trunk Relative path downloaded: all_pods_versions_1_4_7.txt, save ETag: W/"65f16d22-8dc"
+  CDN: trunk Relative path downloaded: all_pods_versions_7_d_5.txt, save ETag: W/"65f16d22-525"
+  CDN: trunk Relative path downloaded: all_pods_versions_f_3_8.txt, save ETag: W/"65f16d22-eed"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_8_6.txt, save ETag: W/"65f16d22-547"
+  CDN: trunk Relative path downloaded: all_pods_versions_5_c_6.txt, save ETag: W/"65f16d22-65e"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_c_3.txt, save ETag: W/"65f16d22-401"
+  CDN: trunk Relative path downloaded: all_pods_versions_1_c_d.txt, save ETag: W/"65f16d22-8fa"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_f_d.txt, save ETag: W/"65f16d22-626"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_f_0.txt, save ETag: W/"65f16d22-652"
+  CDN: trunk Relative path downloaded: all_pods_versions_7_3_2.txt, save ETag: W/"65f16d22-47b"
+  CDN: trunk Relative path downloaded: all_pods_versions_5_0_c.txt, save ETag: W/"65f16d22-585"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_4_f.txt, save ETag: W/"65f16d22-33e"
+  CDN: trunk Relative path downloaded: all_pods_versions_8_a_b.txt, save ETag: W/"65f16d22-65d"
+  CDN: trunk Relative path downloaded: all_pods_versions_4_c_8.txt, save ETag: W/"65f16d22-8b6"
+  CDN: trunk Relative path downloaded: all_pods_versions_4_6_3.txt, save ETag: W/"65f16d22-53d"
+  CDN: trunk Relative path downloaded: all_pods_versions_4_0_c.txt, save ETag: W/"65f16d22-306"
+  CDN: trunk Relative path downloaded: all_pods_versions_6_f_8.txt, save ETag: W/"65f16d22-55e"
+  CDN: trunk Relative path downloaded: all_pods_versions_2_f_0.txt, save ETag: W/"65f16d22-492"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_6_3.txt, save ETag: W/"65f16d22-733"
+  CDN: trunk Relative path downloaded: all_pods_versions_9_a_0.txt, save ETag: W/"65f16d22-350"
+  CDN: trunk Relative path downloaded: all_pods_versions_d_4_1.txt, save ETag: W/"65f16d22-44e"
+  CDN: trunk Relative path downloaded: all_pods_versions_8_a_5.txt, save ETag: W/"65f16d22-255"
+  CDN: trunk Relative path downloaded: all_pods_versions_8_a_a.txt, save ETag: W/"65f16d22-d3a"
+  CDN: trunk Relative path downloaded: all_pods_versions_b_3_8.txt, save ETag: W/"65f16d22-5fa"
+  CDN: trunk Relative path downloaded: all_pods_versions_2_f_d.txt, save ETag: W/"65f16d22-534"
+  CDN: trunk Relative path downloaded: all_pods_versions_e_2_f.txt, save ETag: W/"65f16d22-4d6"
+  CDN: trunk Relative path downloaded: all_pods_versions_7_3_b.txt, save ETag: W/"65f16d22-c02"
+  CDN: trunk Relative path downloaded: all_pods_versions_9_e_6.txt, save ETag: W/"65f16d22-558"
+  CDN: trunk Relative path downloaded: all_pods_versions_6_1_3.txt, save ETag: W/"65f16d22-5cb"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_7_9.txt, save ETag: W/"65f16d22-63a"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.5.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.5.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.5.2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.2/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.5.3/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.3/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.5.4/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.4/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.6.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.6.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.6.2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.2/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.6.3/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.3/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.7.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.7.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.0.0-beta.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.0.0-beta.2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.2/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.0.0-beta.3/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.3/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.0.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.0.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.0.2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.2/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.0.3/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.3/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.0.4/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.4/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.1.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.1.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.2.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/3.2.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/4.0.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/4.0.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.1/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.0/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.0/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.1/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.1/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.10/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.10/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.11/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.11/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.12/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.12/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.13/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.13/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.14/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.14/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.15/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.15/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.16/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.16/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.17/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.17/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.18/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.18/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.19/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.19/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.3/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.3/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.5/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.5/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.7/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.7/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.8/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.8/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.0.9/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.9/CocoaMQTT.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/f/e/9/CocoaMQTT/1.1.0/CocoaMQTT.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.1.0/CocoaMQTT.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_1_f_6.txt, save ETag: W/"65f16d22-4e9"
+  CDN: trunk Relative path downloaded: all_pods_versions_5_3_d.txt, save ETag: W/"65f16d22-6cd"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_f_1.txt, save ETag: W/"65f16d22-f97"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.0.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.1/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_0_f_b.txt, save ETag: W/"65f16d22-4d7"
+  CDN: trunk Relative path downloaded: all_pods_versions_3_8_6.txt, save ETag: W/"65f16d22-45f"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/0.9.5/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.5/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.2.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.0/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_0_a_f.txt, save ETag: W/"65f16d22-5b3"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_9_3.txt, save ETag: W/"65f16d22-6fd"
+  CDN: trunk Relative path downloaded: all_pods_versions_c_8_7.txt, save ETag: W/"65f16d22-8b3"
+  CDN: trunk Relative path downloaded: all_pods_versions_a_9_1.txt, save ETag: W/"65f16d22-451"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/2.2.2/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.2/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.3.2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.2/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.2.3/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.3/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.2.4/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.4/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.8.2/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.2/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.0RC3/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC3/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.3.3/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.3/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.4.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.8.1/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.1/BlocksKit.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_1_d_4.txt, save ETag: W/"65f16d22-561"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.5.0/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.0/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.0.3/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.3/BlocksKit.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_9_f_0.txt, save ETag: W/"65f16d22-610"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.0RC2/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC2/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.3.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.1/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_4_5_a.txt, save ETag: W/"65f16d22-47d"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.0.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.1.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.1.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/8/a/5/BlocksKit/1.0.1/BlocksKit.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.1/BlocksKit.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/1.1.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.1/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_e_7_b.txt, save ETag: W/"65f16d22-4cf"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.0.0-RC1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC1/AFNetworking.podspec.json
+  CDN: trunk Relative path downloaded: all_pods_versions_f_1_e.txt, save ETag: W/"65f16d22-678"
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/7/d/5/JSQMessagesViewController/7.3.5/JSQMessagesViewController.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/7/d/5/JSQMessagesViewController/7.3.5/JSQMessagesViewController.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/2.2.0/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.0/AFNetworking.podspec.json
+  CDN: trunk Redirecting from https://cdn.cocoapods.org/Specs/a/7/5/AFNetworking/0.10.1/AFNetworking.podspec.json to https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.1/AFNetworking.podspec.json
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.4/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.1.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.0/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.1/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.10/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.11/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.12/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.13/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.14/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.15/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.16/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.17/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.18/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.19/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.3/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.5/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.7/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.8/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.9/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.1.0/CocoaMQTT.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.5/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.2/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.4/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.2/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.1/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.0/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.3/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.1.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.1/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/7/d/5/JSQMessagesViewController/7.3.5/JSQMessagesViewController.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.1/AFNetworking.podspec.json Response: Couldn't connect to server, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.5/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC2/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.6/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.4/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.3/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC3/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.3/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.0/WCDB.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.7.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.1/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.5.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.5/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.1/WCDB.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.5.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.7.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.0.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/2/c/6/GoogleWebRTC/1.1.32000/GoogleWebRTC.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 4
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.0/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.1/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.10/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.11/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.12/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.13/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.14/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.15/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.16/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.17/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.18/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.19/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.3/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.5/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.7/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.8/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.9/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.1.0/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.5/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC3/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.1/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.3/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.1/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/7/d/5/JSQMessagesViewController/7.3.5/JSQMessagesViewController.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.5/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.6/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.4/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.3/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC3/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.3/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.0/WCDB.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.7.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.1/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.5.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.5/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.1/WCDB.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.5.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.7.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.0.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/2/c/6/GoogleWebRTC/1.1.32000/GoogleWebRTC.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 3
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.0/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.1/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.10/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.11/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.12/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.13/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.14/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.15/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.16/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.17/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.18/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.19/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.3/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.5/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.7/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.8/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.9/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.1.0/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.5/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC3/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.1/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.3/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.1/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/7/d/5/JSQMessagesViewController/7.3.5/JSQMessagesViewController.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.5/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.6/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.4/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.3/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC3/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.3/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.0/WCDB.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.7.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.1/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.5.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.5/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.1/WCDB.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.5.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.7.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.0.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/2/c/6/GoogleWebRTC/1.1.32000/GoogleWebRTC.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 2
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.5/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.6/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.2/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.4/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.0/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.4/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.3/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.2/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.3/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.0/WCDB.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.0/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.4/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.7.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.1/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.5.0/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.5/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.1/WCDB.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.5.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.7.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.2/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.0/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.0.0/BlocksKit.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/2/c/6/GoogleWebRTC/1.1.32000/GoogleWebRTC.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0.1/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.3/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.0/AFNetworking.podspec.json Response: Couldn't resolve host name, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.1.0/CocoaMQTT.podspec.json Response: Couldn't connect to server, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC1/AFNetworking.podspec.json Response: Couldn't connect to server, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.0/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.1/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.10/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.11/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.12/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.13/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.14/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.15/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.16/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.17/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.18/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.19/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.3/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.5/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.7/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.8/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.9/CocoaMQTT.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.5/BlocksKit.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.2/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.4/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.2/BlocksKit.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC3/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.3/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.1/BlocksKit.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.3/BlocksKit.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC2/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.1.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.1/BlocksKit.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/7/d/5/JSQMessagesViewController/7.3.5/JSQMessagesViewController.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.1/AFNetworking.podspec.json Response: Timeout was reached, retries: 1
+  CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.0/BlocksKit.podspec.json Response: Timeout was reached, retries: 1
+[!] CDN: trunk Repo update failed - 105 error(s):
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/2/c/6/GoogleWebRTC/1.1.32000/GoogleWebRTC.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/7/d/5/JSQMessagesViewController/7.3.5/JSQMessagesViewController.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.0/WCDB.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/3/3/WCDB/1.0.1/WCDB.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.5.0/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.0/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/0.9.5/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.0/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.1/BlocksKit.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.2/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.3/BlocksKit.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.4/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.5/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.0.6/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.0/BlocksKit.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.1/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.5.2/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.0/BlocksKit.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.1/BlocksKit.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.2/BlocksKit.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/1.8.3/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.0.0/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.0/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.2/BlocksKit.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.3/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/8/a/5/BlocksKit/2.2.5/BlocksKit.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.10.1/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.5.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.7.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.1/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/0.9.2/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC2/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.0RC3/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.1.1/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.2.1/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.1/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.2/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.3/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/1.3.4/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC2/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0-RC3/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.0/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.2/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.0.3/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.1.0/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.0/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.2/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.3/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.2.4/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.3.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.0/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.4.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.2/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.3/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.5.4/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.2/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.6.3/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/2.7.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.2/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0-beta.3/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.0/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.1/AFNetworking.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.2/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.3/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.0.4/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.1.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/3.2.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.0/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/a/7/5/AFNetworking/4.0.1/AFNetworking.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.0/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.1/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.10/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.11/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.12/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.13/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.14/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.15/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.16/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.17/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.18/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.19/CocoaMQTT.podspec.json Response: Couldn't resolve host name
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.3/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.5/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.7/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.8/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.0.9/CocoaMQTT.podspec.json Response: Timeout was reached
+CDN: trunk URL couldn't be downloaded: https://cdn.jsdelivr.net/cocoa/Specs/f/e/9/CocoaMQTT/1.1.0/CocoaMQTT.podspec.json Response: Timeout was reached
+
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-core-1.12.1/lib/cocoapods-core/cdn_source.rb:483:in `rescue in concurrent_requests_catching_errors'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-core-1.12.1/lib/cocoapods-core/cdn_source.rb:478:in `concurrent_requests_catching_errors'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-core-1.12.1/lib/cocoapods-core/cdn_source.rb:63:in `preheat_existing_files'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-core-1.12.1/lib/cocoapods-core/cdn_source.rb:257:in `update'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-1.12.1/lib/cocoapods/sources_manager.rb:144:in `block (3 levels) in update'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-1.12.1/lib/cocoapods/user_interface.rb:64:in `section'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-1.12.1/lib/cocoapods/sources_manager.rb:143:in `block (2 levels) in update'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-1.12.1/lib/cocoapods/sources_manager.rb:142:in `each'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-1.12.1/lib/cocoapods/sources_manager.rb:142:in `block in update'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-1.12.1/lib/cocoapods/sources_manager.rb:140:in `open'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-1.12.1/lib/cocoapods/sources_manager.rb:140:in `update'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-trunk-1.6.0/lib/pod/command/trunk/push.rb:156:in `update_master_repo'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-trunk-1.6.0/lib/pod/command/trunk/push.rb:71:in `run'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/claide-1.1.0/lib/claide/command.rb:334:in `run'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-1.12.1/lib/cocoapods/command.rb:52:in `run'
+/Users/SailorGa/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/cocoapods-1.12.1/bin/pod:55:in `<top (required)>'
+/usr/local/bin/pod:23:in `load'
+/usr/local/bin/pod:23:in `<main>'
