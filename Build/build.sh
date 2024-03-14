@@ -7,7 +7,7 @@ DERIVED_DATA_PATH="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 PROJECT_PATH="$( cd "$( dirname "$PWD" )" && pwd )"
 
 # 项目名字
-LIBRARY_NAME="VCSMediaKit"
+LIBRARY_NAME="VCSMeetLink"
 
 # 项目Podspec名字
 PODSPEC_NAME="${LIBRARY_NAME}.podspec"

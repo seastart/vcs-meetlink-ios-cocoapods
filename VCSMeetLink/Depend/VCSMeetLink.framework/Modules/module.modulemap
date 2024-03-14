@@ -1,0 +1,6 @@
+framework module VCSMeetLink {
+  umbrella header "VCSMeetLink.h"
+  export *
+
+  module * { export * }
+}

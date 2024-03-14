@@ -1,6 +1,0 @@
-framework module VCSMediaKit {
-  umbrella header "VCSMediaKit.h"
-  export *
-
-  module * { export * }
-}
