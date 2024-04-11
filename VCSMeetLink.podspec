@@ -35,5 +35,5 @@ TODO: Add long description of the pod here.
   s.dependency 'Protobuf'
   
   # 依赖本地库文件
-  s.vendored_frameworks = 'VCSMeetLink/Depend/*.framework'
+  s.vendored_frameworks = 'VCSMeetLink/*.framework'
 end
