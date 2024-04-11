@@ -13,13 +13,17 @@ FOUNDATION_EXTERN NSString *__nonnull const VCSMEETLINKVERSION;
 
 //! 引入相关头文件
 #if __has_include(<VCSMeetLink/VCSMeetLink.h>)
-/// 枚举类型
-#import <VCSMeetLink/VCSMeetEnum.h>
-/// 数据结构
-#import <VCSMeetLink/VCSMeetObjects.h>
+/// 登录组件
+#import <VCSMeetLink/VCSMeetLogin.h>
+/// 呼叫组件
+#import <VCSMeetLink/VCSMeetCall.h>
+/// 会控组件
+#import <VCSMeetLink/VCSMeetControl.h>
 #else
-/// 枚举类型
-#import "VCSMeetEnum.h"
-/// 数据结构
-#import "VCSMeetObjects.h"
+/// 登录组件
+#import "VCSMeetLogin.h"
+/// 呼叫组件
+#import "VCSMeetCall.h"
+/// 会控组件
+#import "VCSMeetControl.h"
 #endif

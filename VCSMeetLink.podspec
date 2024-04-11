@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VCSMeetLink'
-  s.version          = '0.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'VCS拆分会控组件库.'
 
 # This description is used to generate tags and improve search results.
@@ -36,6 +36,4 @@ TODO: Add long description of the pod here.
   
   # 依赖本地库文件
   s.vendored_frameworks = 'VCSMeetLink/Depend/*.framework'
-  # 依赖本地资源文件
-  s.resource = 'VCSMeetLink/Resources/*.bundle'
 end
