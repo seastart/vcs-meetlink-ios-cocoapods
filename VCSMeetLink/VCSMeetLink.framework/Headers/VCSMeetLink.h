@@ -19,6 +19,8 @@ FOUNDATION_EXTERN NSString *__nonnull const VCSMEETLINKVERSION;
 #import <VCSMeetLink/VCSMeetCall.h>
 /// 会控组件
 #import <VCSMeetLink/VCSMeetControl.h>
+/// 消息连接器(通讯桥梁)
+#import <VCSMeetLink/VCSMsgLinker.h>
 #else
 /// 登录组件
 #import "VCSMeetLogin.h"
@@ -26,4 +28,6 @@ FOUNDATION_EXTERN NSString *__nonnull const VCSMEETLINKVERSION;
 #import "VCSMeetCall.h"
 /// 会控组件
 #import "VCSMeetControl.h"
+/// 消息连接器(通讯桥梁)
+#import "VCSMsgLinker.h"
 #endif
