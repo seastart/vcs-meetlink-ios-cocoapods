@@ -273,6 +273,11 @@ typedef void (^VCSMeetControlDestroyBlock)(void);
 /// @param tag 绑定数据内容
 - (void)setAccountTag:(NSString *)tag;
 
+#pragma mark 设置网络等级
+/// 设置网络等级
+/// @param level 网络等级
+- (void)setNetworkLevel:(int)level;
+
 #pragma mark 设置举手状态
 /// 设置举手状态
 /// @param handUpStatus 举手类型
