@@ -141,6 +141,14 @@ NS_ASSUME_NONNULL_BEGIN
 ///   - error: 错误信息
 - (void)meetCall:(VCSMeetCall *)meetCall onMeetingPrepareNotify:(RoomPrepareNotify *)notify error:(NSError *)error;
 
+#pragma mark 呼叫卡片消息通知
+/// 呼叫卡片消息通知
+/// - Parameters:
+///   - meetCall: 呼叫实例
+///   - notify: 通知对象
+///   - error: 错误信息
+- (void)meetCall:(VCSMeetCall *)meetCall onCallCardNotify:(CallCardMsgNotify *)notify error:(NSError *)error;
+
 #pragma mark 事件透传通知
 /// 事件透传通知
 /// - Parameters:
